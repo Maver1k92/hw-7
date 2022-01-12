@@ -1,5 +1,6 @@
 public class Shape{
     public void shapeName(){
+        System.out.println("Shape");
     }
 }
 
